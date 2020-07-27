@@ -1,0 +1,17 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"LED5MM";"LED5MM";"LED3";"LED";"";
+"2";"";"PINHD-1X3";"1X03";"DIGITAL_3, DIGITAL_4";"PIN HEADER";"";
+"2";"";"PINHD-1X4";"1X04";"DIGITAL_1, DIGITAL_2";"PIN HEADER";"";
+"1";"";"PINHD-1X5";"1X05";"CP2102";"PIN HEADER";"";
+"1";"";"PINHD-1X6";"1X06";"ANALOG";"PIN HEADER";"";
+"1";"0.1uF";"C-US025-025X050";"C025-025X050";"C5";"CAPACITOR, American symbol";"";
+"2";"100uF";"C-US025-025X050";"C025-025X050";"C3, C4";"CAPACITOR, American symbol";"";
+"1";"10k";"R-US_0204/7";"0204/7";"R1";"RESISTOR, American symbol";"";
+"1";"1206";"1206L175SL";"1206L";"F1";"Polyfuse Resettable PTC";"";
+"1";"16MHz";"CRYSTAL-16MHZPTH-HC49US";"HC49US";"Y1";"16MHz Crystal";"";
+"1";"220";"R-US_0204/7";"0204/7";"R7";"RESISTOR, American symbol";"";
+"2";"22pF";"C-US025-025X050";"C025-025X050";"C1, C2";"CAPACITOR, American symbol";"";
+"1";"328P";"ATMEGA328P_PDIP";"DIP28";"U1";"Atmel 328P";"";
+"1";"7805";"R-78E5.0-1.0";"DC-DC_CONVERTER_78XX";"U2";"Recom Power 5V 1A DC/DC Converter";"";
+"1";"POWER_JACK";"POWER_JACK";"POWER_JACK_PTH";"9V";"Power Jack Connector";"";
+"1";"SPST";"MOMENTARY-SWITCH-SPST-PTH-6.0MM";"TACTILE_SWITCH_PTH_6.0MM";"S1";"Momentary Switch (Pushbutton) - SPST";"";
